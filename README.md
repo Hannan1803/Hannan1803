@@ -1,152 +1,114 @@
-# Hi, I'm Hannan 👋
+# 🚀 Hannan S
 
-### DevOps Engineer | Azure | Terraform | CI/CD | Docker | Linux
+<div align="center">
 
-I'm a **DevOps Engineer** focused on building, automating, and maintaining secure and scalable cloud infrastructure and deployment platforms.
+### DevOps Engineer
 
-My experience includes **Microsoft Azure, Terraform, CI/CD automation, Docker, Linux, cloud networking, and infrastructure automation**, with hands-on exposure to **Development, UAT, and Production environments**.
+**Cloud Infrastructure • Infrastructure as Code • CI/CD • Containers • Linux**
 
----
+I build and automate secure, scalable cloud infrastructure and deployment platforms using
+**Azure, Terraform, CI/CD, Docker, and Linux.**
 
-## 🛠️ Technical Skills
-
-### ☁️ Cloud & Infrastructure
-
-* **Microsoft Azure**
-* Azure Virtual Networks (VNet)
-* Hub-and-Spoke Architecture
-* VNet Peering
-* Private Endpoints
-* Private DNS Zones
-* NAT Gateway
-* Azure Load Balancer
-* Azure Key Vault
-* Azure Container Registry (ACR)
-* Azure Monitor
-* Microsoft Entra ID
-
-### 🏗️ Infrastructure as Code
-
-* **Terraform**
-* Terraform Modules
-* Remote State Management
-* Infrastructure Provisioning
-* Infrastructure Automation
-
-### 🔄 CI/CD & DevOps
-
-* **Azure DevOps**
-* **Jenkins**
-* **GitHub Actions**
-* **Bitbucket**
-* CI/CD Pipeline Automation
-* Pull Request Validation
-* SonarQube
-* Trivy
-
-### 🐳 Containers & Web Infrastructure
-
-* **Docker**
-* Docker Networking
-* Docker Volumes
-* **Nginx**
-* Containerized Application Deployment
-
-### 🐧 Linux & Scripting
-
-* **Linux**
-* Bash
-* PowerShell
-* Python
-* YAML
-* Linux Networking & Troubleshooting
-
-### 📊 Data & Analytics Platforms
-
-* Azure Databricks
-* Databricks Asset Bundles (DAB)
-* Unity Catalog
-* Microsoft Fabric
-* OneLake
-* Fabric CI/CD
-* Power BI
+</div>
 
 ---
 
-## 🚀 What I Work On
+## ⚡ Engineering Impact
 
-* ☁️ Provisioning and managing Azure infrastructure using **Terraform**
-* 🔄 Designing and automating **CI/CD pipelines**
-* 🐳 Containerizing applications using **Docker**
-* 🌐 Implementing secure **Azure networking and Hub-and-Spoke architectures**
-* 🔐 Implementing cloud security using **Key Vault, Private Endpoints and Entra ID**
-* 🐧 Working with Linux-based infrastructure and troubleshooting
-* 🛠️ Automating repetitive infrastructure and deployment tasks
-
----
-
-## 📌 Featured Projects
-
-### ☁️ Azure Infrastructure Automation
-
-**Terraform | Azure | Networking | Security**
-
-Infrastructure-as-Code project demonstrating automated provisioning of Azure resources using reusable Terraform modules.
-
-**Key areas:**
-
-* VNet & subnet architecture
-* Hub-and-Spoke networking
-* Private Endpoints
-* NAT Gateway
-* Azure Load Balancer
-* Key Vault
-* Azure Container Registry
-* Remote Terraform state
+- ☁️ Provisioned and managed **Azure infrastructure using Terraform** across Development, UAT, and Production environments
+- 🔄 Built and maintained **CI/CD pipelines** using Azure DevOps, Jenkins, GitHub Actions, and Bitbucket
+- 🏗️ Implemented **Hub-and-Spoke Azure networking** with VNet Peering, Private Endpoints, Private DNS, and NAT Gateway
+- 🐳 Containerized applications using **Docker** and configured **Nginx** as a reverse proxy
+- 🔐 Implemented secure cloud infrastructure using **Azure Key Vault, Entra ID, Private Endpoints, and network security controls**
+- 🛠️ Automated infrastructure and deployment workflows using **Terraform, Python, Bash, PowerShell, and YAML**
 
 ---
 
-### 🔄 CI/CD Pipeline Automation
+## 🧠 Core Engineering Focus
 
-**Azure DevOps | Jenkins | GitHub Actions | Docker**
-
-CI/CD implementations demonstrating automated build, validation, security scanning, containerization, and deployment workflows.
-
-**Key areas:**
-
-* Pull Request validation
-* Branch strategy
-* Automated builds
-* Docker image creation
-* Container registry integration
-* SonarQube
-* Trivy
-* Deployment automation
+```text
+→ Cloud Infrastructure & Automation
+→ Infrastructure as Code
+→ CI/CD & Deployment Automation
+→ Containerization & Linux
+→ Cloud Networking & Security
+```
 
 ---
 
-### 🐳 Containerized Web Application
+## 🛠️ Tech Stack
 
-**Docker | Nginx | Linux | Node.js | React | PostgreSQL**
+- ☁️ Cloud & Infrastructure
+<div align="center"> <img src="https://skillicons.dev/icons?i=azure,terraform" /> </div>
 
-A containerized multi-tier web application demonstrating practical Docker deployment and reverse-proxy configuration.
+- 🔄 DevOps & CI/CD
+<div align="center"> <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" /> </div>
 
-**Architecture:**
+- 🐳 Containers & Linux
+<div align="center"> <img src="https://skillicons.dev/icons?i=docker,linux,bash,nginx" /> </div>
 
-`React → Nginx → Node.js → PostgreSQL`
+- 💻 Programming & Automation
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,powershell" /> </div>
+
+---
+
+## 🚀 Featured Systems
+
+### 🔹 Azure Infrastructure Automation
+
+**Terraform • Microsoft Azure • Networking • Security**
+
+> Infrastructure-as-Code implementation for provisioning and managing Azure resources across multiple environments.
+
+- Provisioned Azure infrastructure using **Terraform**
+- Designed reusable **Terraform modules**
+- Implemented **VNet and subnet architecture**
+- Configured **Network Security Groups**
+- Implemented **VNet Peering**
+- Configured **Private Endpoints and Private DNS Zones**
+- Implemented **NAT Gateway**
+- Configured **Azure Load Balancer**
+- Integrated **Azure Key Vault**
+- Managed **Azure Container Registry**
+- Configured **Azure Monitor**
+- Implemented **remote Terraform state management**
+
+---
+
+### 🔹 CI/CD & DevOps Automation
+
+**Azure DevOps • Jenkins • GitHub Actions • Bitbucket • Docker**
+
+> CI/CD workflows for automated validation, build, security scanning, and deployment.
+
+- Implemented **Pull Request validation**
+- Implemented environment-based **branch flow validation**
+- Automated application builds
+- Automated **Docker image builds**
+- Integrated **Azure Container Registry**
+- Integrated **SonarQube** for code quality analysis
+- Integrated **Trivy** for container security scanning
+- Automated deployment workflows
+- Worked with **Azure DevOps Pipelines**
+- Worked with **Jenkins pipelines**
+- Worked with **GitHub Actions**
+- Worked with **Bitbucket CI/CD**
 
 ---
 
 ## 🏆 Certification
 
-**HashiCorp Certified: Terraform Associate (004)**
+<div align="center"> 
+🏅 HashiCorp Certified: Terraform Associate (004)
+
+Infrastructure as Code • Terraform • Cloud Infrastructure
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-haniif-hannan-s-731943289/
-
-📧 **Email:** mdhannan1827@gmail.com
-
-🐙 **GitHub:** [github.com/Hannan1803](https://github.com/Hannan1803)
+- 💼 LinkedIn - https://www.linkedin.com/in/muhammad-haniif-hannan-s-731943289/
+- 🧠 LeetCode - https://leetcode.com/u/Hannan18/
+  
+---
